@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="M6RN/5is:e5o^_03S.c$" x="20" y="20"></block><block type="device_forever" id="VY4nV#wWdl@ER(cnUl,N" x="227" y="23"><statement name="HANDLER"><block type="device_show_leds" id="F{X]w/Ur6]8_h)e_/J|E"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_pause" id="S|1g?@y-4TX=pr4/=vJo"><value name="pause"><shadow type="timePicker" id="JAHrE=?KY##pnT0TYVvs"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="}$rT_HRm7`S1oTHnJ@K]"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="]4b{hQ%Xrx5q/GiW`,_V"><value name="pause"><shadow type="timePicker" id="C;6OUROgdd~J~nU2#hW;"><field name="ms">500</field></shadow></value><next><block type="basic_show_icon" id="iD)mu:yawKZ6X?Y27J%*"><field name="i">IconNames.Angry</field></block></next></block></next></block></next></block></next></block></statement></block></xml>
